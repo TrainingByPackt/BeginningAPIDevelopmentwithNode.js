@@ -1,0 +1,18 @@
+{
+    "title": "Shopping",
+    "dateCreated": "Jan 21, 2018",
+    "list": [
+      {
+        "text": "Node.js Books",
+        "done": false
+      },
+      {
+        "text": "MacBook",
+        "done": false
+      },
+      {
+        "text": "Shoes",
+        "done": false
+      }
+    ]
+}

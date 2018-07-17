@@ -1,0 +1,20 @@
+{
+  "name": "hello-hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "good": "^7.3.0",
+    "good-console": "^6.4.0",
+    "hapi": "^16.6.2",
+    "joi": "^13.0.1",
+    "knex": "^0.14.2",
+    "mysql": "^2.15.0"
+  }
+}

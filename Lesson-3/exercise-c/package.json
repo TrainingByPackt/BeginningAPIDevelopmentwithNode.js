@@ -1,0 +1,30 @@
+{
+  "name": "hello-hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "PORT=8001 ./node_modules/lab/bin/lab test --leaks",
+    "test:dev": "./node_modules/.bin/gulp test:dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "good": "^7.3.0",
+    "good-console": "^6.4.0",
+    "hapi": "^16.6.2",
+    "hapi-auth-jwt": "^4.0.0",
+    "joi": "^13.0.1",
+    "jsonwebtoken": "^8.1.0",
+    "knex": "^0.14.2",
+    "md5": "^2.2.1",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.3",
+    "gulp-watch": "^4.3.11",
+    "lab": "^15.1.2"
+  }
+}
