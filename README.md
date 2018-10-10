@@ -6,29 +6,29 @@
 
 
 # Beginning API Development with Node.js
-The bots are taking over and we’re all for it! Messenger-based bots will be the dominant software UI for the next generation of applications – even Slack, Telegram, and Facebook are driving a new approach where “threads are the new apps.” This book shows you how to create work automation bots that interact with users through Slack, e-mail, Skype, Twitter, and more using Node.js. You’ll learn to create conversational UIs for your Node.js apps, and then use those UIs to provide workflow automation tools. You will be shown how to handle customer service requests that come in through messenger systems – this includes interpreting the natural language to reveal the user’s intent and respond accordingly. You will also learn how to automate processes that involve several people, such as processing holiday requests, arranging meetings, or sending updated reports on time. By the end of this book you’ll have the knowledge to create bots that can handle and manipulate documents, URLs, and other items of content. Harness the power of bots and your organization will reap the benefits.
 
+Using the same framework to build both server and client-side applications saves you time and money. This book teaches you how you can use JavaScript and Node.js to build highly scalable APIs that work well with lightweight cross-platform client applications. It begins with the basics of Node.js in the context of backend development, and quickly leads you through the creation of an example client that pairs up with a fully authenticated API implementation.
+
+This book balances theory and exercises, and contains multiple open-ended activities that use real-life business scenarios for you to practice and apply your newly acquired skills in a highly relevant context.
+
+We have included over 20 practical activities and exercises across 9 topics to reinforce your learning. By the end of this book, you'll have the skills and exposure required to get hands- on with your own API development project.
 
 ## What you will learn
-* Set up the React Native environment on both devices and emulators
-* Gain an in-depth understanding of how React Native works behind the scenes
-* Write your own custom native UI components
-* Learn the ins and outs of screen navigation
-* Master the art of layout and styles
-* Work with device-exclusive data such as geolocation
-* Develop native modules in Objective-C and Java that interact with JavaScript
-* Test and deploy your application for a production-ready environment
 
+* Quickly get to grips with Node.js and it  Module System.
+* Build an Understanding of Asynchronous Programming in Node.js
+* Develop scalable and high performing APIs using hapi.js and Knex.js
+* Write unit tests for your API to ensure reliability and maintainability.
+* Complete a variety of hands-on exercises and activities to broaden your understanding of the concepts.
+* Dive into the capstone project by building an API for a legacy application.
 
 ### Hardware requirements
+
 For an optimal student experience, we recommend the following hardware configuration:
 * **Processor**: 2.6 GHz or higher, preferably multi-core
 * **Memory**: 4GB RAM
 * **Hard disk**: 10GB or more
-* A projector 
 * An Internet connection
-
-
 
 ### Software requirements
 You’ll also need the following software installed in advance:
@@ -37,7 +37,3 @@ You’ll also need the following software installed in advance:
 * [Node.js](https://nodejs.org/en/)
 * [MySQL Workbench 6.3](https://www.mysql.com/products/workbench/)
 * [MySQL](https://dev.mysql.com/downloads/mysql/)
-
-
-
-
